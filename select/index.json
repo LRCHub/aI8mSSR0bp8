@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "CALLIN'",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-10T06:29:25.508663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Already Callin' You Mine",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/01_Already_Callin'_You_Mine_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "Brooks Jefferson",
+      "has_synced": true,
+      "path": "select/02_Callin'_Baton_Rouge_Brooks_Jefferson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "New Grass Revival",
+      "has_synced": true,
+      "path": "select/03_Callin'_Baton_Rouge_New_Grass_Revival.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "The New Grass Revival",
+      "has_synced": true,
+      "path": "select/04_Callin'_Baton_Rouge_The_New_Grass_Revival.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/05_Callin'_Baton_Rouge_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Callin' Baton Rouge (Album Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/06_Callin'_Baton_Rouge_(Album_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Callin' Out",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/07_Callin'_Out_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Callin  Me Home",
+      "artist": "Kate Price",
+      "has_synced": false,
+      "path": "select/08_Callin_Me_Home_Kate_Price.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Somebody's Callin' My Name",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/09_Somebody's_Callin'_My_Name_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Callin më",
+      "artist": "Yeat",
+      "has_synced": true,
+      "path": "select/10_Callin_më_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Callin Me",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/11_Callin_Me_Momma.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Callin' Me",
+      "artist": "Consequence",
+      "has_synced": true,
+      "path": "select/12_Callin'_Me_Consequence.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Callin' The Shots",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/13_Callin'_The_Shots_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Callin the Shots",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/14_Callin_the_Shots_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Callin’ the Shots",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/15_Callin’_the_Shots_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tower's Callin'",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/16_Tower's_Callin'_Europe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'll Come Callin'",
+      "artist": "The Rembrandts",
+      "has_synced": false,
+      "path": "select/17_I'll_Come_Callin'_The_Rembrandts.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Who You Callin' Bitch?",
+      "artist": "Rivers Cuomo",
+      "has_synced": true,
+      "path": "select/18_Who_You_Callin'_Bitch_Rivers_Cuomo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CALLIN' (feat. G-k.i.d, Bark & Benjazzy)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_CALLIN'_(feat._G-k.i.d,_Bark_&_Benjazzy)_BAD_HOP.txt"
+    }
+  ]
+}
